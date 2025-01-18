@@ -1,3 +1,5 @@
+package Arrays;
+
 public class StockBuyAndSell {
     static int BuySell(int[] arr){
         int minSo = arr[0];
